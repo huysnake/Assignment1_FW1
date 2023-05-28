@@ -31,4 +31,5 @@ import { ProductListComponent } from './pages/product-list/product-list.componen
   providers: [],
   bootstrap: [AppComponent]
 })
+
 export class AppModule { }
